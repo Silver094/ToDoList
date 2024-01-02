@@ -6,7 +6,7 @@ Todo List is a basic application designed to help you manage your tasks and todo
 
 To start using Simple Static Todo List, follow these simple steps:
 
-1. Open your web browser and navigate to the [Simple Static Todo List](https://www.simple-static-todo-list.com) website.
+1. Open your web browser and navigate to the [Todo List](https://silver094.github.io/ToDoList/) website.
 2. Start adding your tasks using the provided input field.
 3. View and manage your tasks as needed using the provided options.
 
