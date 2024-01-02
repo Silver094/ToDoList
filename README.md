@@ -1,6 +1,6 @@
 ## Todo List
 
-Simple Static Todo List is a basic application designed to help you manage your tasks and todos efficiently. It allows you to add, view, and manage your tasks on a simple web page, while also offering some advanced features such as priority levels.
+Todo List is a basic application designed to help you manage your tasks and todos efficiently. It allows you to add, view, and manage your tasks on a simple web page, while also offering some advanced features such as priority levels.
 
 ## Getting Started
 
